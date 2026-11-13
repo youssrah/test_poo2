@@ -6,6 +6,3 @@ class Equity(FinancialAsset):
 
 class Bond(FinancialAsset):
     pass
-
-class Option(FinancialAsset):
-    pass
