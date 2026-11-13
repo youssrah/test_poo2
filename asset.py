@@ -6,3 +6,7 @@ class Equity(FinancialAsset):
 
 class Bond(FinancialAsset):
     pass
+
+class BondNew(FinancialAsset):
+    pass
+
