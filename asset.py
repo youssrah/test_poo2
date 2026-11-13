@@ -10,3 +10,8 @@ class Bond(FinancialAsset):
 class BondNew(FinancialAsset):
     pass
 
+class Call(FinancialAsset):
+    pass
+
+
+
